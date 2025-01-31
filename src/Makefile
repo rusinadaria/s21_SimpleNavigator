@@ -1,4 +1,2 @@
-all:
-clean:
 test:
-s21_graph:
+	go test -v

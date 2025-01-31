@@ -1,7 +1,7 @@
 package main
 
 import (
-	queue "graph/Queue"
+	queue "graph/queue"
 	"graph/stack"
 	// "math"
 )
