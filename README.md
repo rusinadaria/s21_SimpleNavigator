@@ -52,14 +52,14 @@ The city of Königsberg (now Kaliningrad), founded in the 13th century, consiste
 ![alt text](img/376e1c78-e18c-4d64-b16a-3d404aca9ee0.png)
 
 
-![alt text](image.png)
+![alt text](img/image_2.png)
 
 
 I was asked if one could cross the separate bridges in one continuous walk, so that each bridge is crossed only once. I was informed that no one had yet shown that this was possible or that it was impossible. This question is so banal, but it seemed to me worthy of attention, since neither geometry, nor algebra, nor even the art of counting was sufficient to solve it. And so, after some deliberation, I came up with a simple, but completely established rule, with the help of which one can immediately decide, for all examples of this kind, with any number of bridges in any arrangement, whether such a round trip is possible or not.
 
 You can see how the bridges of Königsberg are located in the following picture, where the vertices of the graph correspond to a certain part of the city, and the edges correspond to the bridges over the river, where A is an island, and B, C, and D are parts of the continent, separated from each other by arms of the river.
 
-![alt text](image-1.png)
+![alt text](img/image-1.png)
 
 
 So is it possible to cross the Königsberg bridges by crossing each of them only once? To find the answer, let's continue with Euler's letter to Marinoni:
