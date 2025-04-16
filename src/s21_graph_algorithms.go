@@ -46,3 +46,14 @@ func BreadthFirstSearch(graph *Graph, start_vertex int) []int { //queue
 	}
 	return result
 }
+
+// func GetShortestPathBetweenVertices(graph *Graph, vertex1 int, vertex2 int) { // алгоитм Дейкстры
+// 	// var visited map[string]bool
+// 	visited := make(map[string]bool)
+// 	// var distance map[string]int
+
+// 	// for key, value := range visited {
+// 	// 	// visited[graph.matrix] = 
+// 	// }
+
+// }
