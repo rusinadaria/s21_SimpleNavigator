@@ -8,6 +8,16 @@ import (
 	"bufio"
 )
 
+// func main() {
+// 	LoadGraphFromFile("txt/undirected.txt")
+//     err := graph.ExportGraphToDot("txt/graph.dot")
+// 	  if err != nil {
+//         fmt.Println("Error exporting to DOT:", err)
+//     } else {
+//         fmt.Println("Graph exported to txt/graph.dot")
+//     }
+// }
+
 type Graph struct {
     matrix [][]int
     rows int
